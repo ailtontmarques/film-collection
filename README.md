@@ -4,7 +4,7 @@ Através de exercício guiado, foi possível desenvolver uma aplicação simples
 
 ## Para a instalação
 
-1. clone o repositório `git clone git@github.com:RenanRB/curso-angular.git`
+1. clone o repositório `https://github.com/ailtontmarques/film-collection.git`
 2. Entre no projeto e instale as dependencias `npm install`
 
 ## Ambiente Local
